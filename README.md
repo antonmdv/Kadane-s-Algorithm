@@ -1,5 +1,5 @@
 # Kadane's Algorithm
-<br><br>
+<br>
 <h3>Pseudo code:</h3>
 <p>
 Initialize:<br>
